@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Gotu Kola",
+    "sinhala": "ගොටුකොළ",
+    "scientific": "Centella asiatica",
+    "use": "Improves memory and brain function",
+    "image": "images/gotukola.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kohomba",
+    "sinhala": "කොහොඹ",
+    "scientific": "Azadirachta indica",
+    "use": "Used for skin diseases and purification",
+    "image": "images/kohomba.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Koththamalli",
+    "sinhala": "කොත්තමල්ලි",
+    "scientific": "Coriandrum sativum",
+    "use": "Used for colds and digestion",
+    "image": "images/koththamalli.jpg"
+  }
+]
