@@ -78,3 +78,19 @@ header {
         width: 90%;
     }
 }
+
+/* Detail page styling */
+#herb-detail {
+    max-width: 800px;
+    margin: 40px auto;
+}
+
+#herb-detail img {
+    max-height: 300px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+#herb-detail h2 {
+    color: #2e7d32;
+}

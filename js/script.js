@@ -19,6 +19,9 @@ function displayHerbs(herbs) {
   herbs.forEach(herb => {
     const card = document.createElement("div");
     card.classList.add("herb-card");
+    card.addEventListener("click", () => {
+  window.location.href = `herb.html?id=${herb.id}`;
+});
 
     card.innerHTML = `
   <img src="${herb.image}" alt="${herb.name}" style="width:100%; border-radius:8px;">
