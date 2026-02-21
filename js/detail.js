@@ -22,7 +22,7 @@ fetch("data/herbs.json")
 function displayHerbDetail(herb) {
   detailContainer.innerHTML = `
     <div class="herb-card">
-      <img src="${herb.image}" alt="${herb.name}" style="width:100%; border-radius:8px;">
+      <img src="${herb.image || 'images/default.jpg'}" alt="${herb.name}">
       <h2>${herb.name}</h2>
       <p><strong>Sinhala Name:</strong> ${herb.sinhala}</p>
       <p><strong>Scientific Name:</strong> ${herb.scientific}</p>

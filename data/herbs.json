@@ -23,4 +23,141 @@
     "use": "Used for colds and digestion",
     "image": "images/koththamalli.jpg"
   }
+  ,
+{
+  "id": 4,
+  "name": "Aloe Vera",
+  "sinhala": "කොමාරිකා",
+  "scientific": "Aloe vera",
+  "use": "Used for skin healing and burns",
+  "image": "images/aloevera.jpg"
+},
+{
+  "id": 5,
+  "name": "Turmeric",
+  "sinhala": "කහ",
+  "scientific": "Curcuma longa",
+  "use": "Anti-inflammatory and immune booster",
+  "image": "images/turmeric.jpg"
+},
+{
+  "id": 6,
+  "name": "Ginger",
+  "sinhala": "ඉඟුරු",
+  "scientific": "Zingiber officinale",
+  "use": "Used for digestion and colds",
+  "image": "images/ginger.jpg"
+},
+{
+  "id": 7,
+  "name": "Tulsi",
+  "sinhala": "මදුරු තල",
+  "scientific": "Ocimum tenuiflorum",
+  "use": "Boosts immunity and respiratory health",
+  "image": "images/tulsi.jpg"
+},
+{
+  "id": 8,
+  "name": "Curry Leaves",
+  "sinhala": "කරපිංචා",
+  "scientific": "Murraya koenigii",
+  "use": "Improves digestion and hair health",
+  "image": "images/curryleaves.jpg"
+},
+{
+  "id": 9,
+  "name": "Ranawara",
+  "sinhala": "රණවරා",
+  "scientific": "Cassia auriculata",
+  "use": "Used for diabetes and skin purification",
+  "image": ""
+},
+{
+  "id": 10,
+  "name": "Iramusu",
+  "sinhala": "ඉරමුසු",
+  "scientific": "Hemidesmus indicus",
+  "use": "Used for blood purification and cooling",
+  "image": ""
+},
+{
+  "id": 11,
+  "name": "Bin Kohomba",
+  "sinhala": "බින් කොහොඹ",
+  "scientific": "Andrographis paniculata",
+  "use": "Used for fever and liver health",
+  "image": ""
+},
+{
+  "id": 12,
+  "name": "Polpala",
+  "sinhala": "පොල්පලා",
+  "scientific": "Aerva lanata",
+  "use": "Used for kidney stones and urinary health",
+  "image": ""
+},
+{
+  "id": 13,
+  "name": "Katu Anoda",
+  "sinhala": "කටු අනෝදා",
+  "scientific": "Annona muricata",
+  "use": "Used for immunity and cancer prevention research",
+  "image": ""
+},
+{
+  "id": 14,
+  "name": "Heen Bovitiya",
+  "sinhala": "හීන් බොවිටියා",
+  "scientific": "Osbeckia octandra",
+  "use": "Used for liver disorders",
+  "image": ""
+},
+{
+  "id": 15,
+  "name": "Sarana",
+  "sinhala": "සරන",
+  "scientific": "Trianthema portulacastrum",
+  "use": "Used for digestive issues",
+  "image": ""
+},
+{
+  "id": 16,
+  "name": "Kohila",
+  "sinhala": "කොහිල",
+  "scientific": "Lasia spinosa",
+  "use": "Used for digestive health",
+  "image": ""
+},
+{
+  "id": 17,
+  "name": "Karapincha",
+  "sinhala": "කරපිංචා",
+  "scientific": "Murraya koenigii",
+  "use": "Used for hair and digestion health",
+  "image": ""
+},
+{
+  "id": 18,
+  "name": "Madatiya",
+  "sinhala": "මඩටියා",
+  "scientific": "Adenanthera pavonina",
+  "use": "Used in traditional remedies",
+  "image": ""
+},
+{
+  "id": 19,
+  "name": "Weniwel",
+  "sinhala": "වැණිවැල්",
+  "scientific": "Coscinium fenestratum",
+  "use": "Used for diabetes and infections",
+  "image": ""
+},
+{
+  "id": 20,
+  "name": "Aralu",
+  "sinhala": "අරලු",
+  "scientific": "Terminalia chebula",
+  "use": "Used for digestion and detoxification",
+  "image": ""
+}
 ]

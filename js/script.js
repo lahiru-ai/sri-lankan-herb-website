@@ -24,7 +24,7 @@ function displayHerbs(herbs) {
 });
 
     card.innerHTML = `
-  <img src="${herb.image}" alt="${herb.name}" style="width:100%; border-radius:8px;">
+  <img src="${herb.image || 'images/default.jpg'}" alt="${herb.name}">
   <h3>${herb.name}</h3>
   <p><strong>Sinhala:</strong> ${herb.sinhala}</p>
   <p><strong>Scientific:</strong> ${herb.scientific}</p>
